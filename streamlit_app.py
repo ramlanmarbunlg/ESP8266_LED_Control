@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-ESP_IP = "http://192.168.1.50"  # Ganti dengan IP dari Serial Monitor
+ESP_IP = "http://192.168.20.17"  # Ganti dengan IP dari Serial Monitor
 
 st.title("💡 Kontrol LED ESP8266")
 
